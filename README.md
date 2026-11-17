@@ -1,6 +1,6 @@
 <img width="1280" height="720" alt="88648" src="banners/Banner1.png" />
 
-# AnDecay
+# DisaBAI Thermal
 A **Magisk/KernelSU/APatch/FolkPatch** module to **purge/disable/remove the thermal**, gaining max performance on your Android device.
 <p align="center">
   <img src="https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge" alt="Repo">
