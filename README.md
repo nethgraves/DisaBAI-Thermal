@@ -3,7 +3,6 @@ A **Magisk/KernelSU/APatch/FolkPatch** module to **purge/disable/remove the ther
 <p align="center">
   <img src="https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge" alt="Repo">
   <img src="https://img.shields.io/badge/created by-Nethgraves-green?style=for-the-badge" alt="Created">
-  <img src="https://img.shields.io/badge/Android-13+-blue?style=for-the-badge&logo=android" alt="Android Version">
 </p>
 
 ## 📦 How to install?
